@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int pedirMaxMin(void);
-
+int pedirMaxMin(void);//devuelve vacio
 
 int main()
 {
